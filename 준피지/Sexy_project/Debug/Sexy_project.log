@@ -1,0 +1,10 @@
+﻿  소스.c
+C:\Users\bomi\source\repos\Sexy_project\Sexy_project\소스.c(183,12): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\bomi\source\repos\Sexy_project\Sexy_project\소스.c(297,35): warning C4013: 'drawplayer'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\bomi\source\repos\Sexy_project\Sexy_project\소스.c(304,38): warning C4566: 유니버설 문자 이름 '\u30FB'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\bomi\source\repos\Sexy_project\Sexy_project\소스.c(361,25): warning C4013: 'fire'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\bomi\source\repos\Sexy_project\Sexy_project\소스.c(228,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\bomi\source\repos\Sexy_project\Sexy_project\소스.c(430,14): warning C4566: 유니버설 문자 이름 '\uFF70'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\bomi\source\repos\Sexy_project\Sexy_project\소스.c(448,14): warning C4566: 유니버설 문자 이름 '\uFF70'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\bomi\source\repos\Sexy_project\Sexy_project\소스.c(423): warning C4716: 'drawplayer': 값을 반환해야 합니다.
+  Sexy_project.vcxproj -> C:\Users\bomi\source\repos\Sexy_project\Debug\Sexy_project.exe
